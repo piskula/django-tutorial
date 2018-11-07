@@ -105,3 +105,6 @@ venv.bak/
 
 # static
 /static
+
+# media
+/media
